@@ -1,0 +1,86 @@
+---
+layout: default
+permalink: /categories/
+---
+<center>
+  <h1>-[ Topics ]-</h1>
+</center>
+
+<p>Click the topic below you'll find the all the posts on this website assigned under them.</p>
+  <p><b>Note:</b> Some posts may belong to multiple topics.</p>
+
+
+<div class="tab">
+  <button class="tablinks" onclick="openCat(event, 'News')">News</button>
+  <button class="tablinks" onclick="openCat(event, 'Blog')">Blog</button>
+  <button class="tablinks" onclick="openCat(event, 'Podcast')">Podcast</button>
+</div>
+
+<div id="News" class="tabcontent">
+  <br>
+  <table>
+    <tr>
+      <th>DATE:</th>
+      <th></th>
+      <th>TITLE:</th>
+    </tr>
+    {% for post in site.categories.news %}
+    <tr>
+      <td>{{ post.date | date_to_string }}</td>
+      <td><img src="{{ post.image }}" width="128" height="77"></td>
+      <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+  </table></div>
+
+<div id="Blog" class="tabcontent">
+  <br>
+<table>
+  <tr>
+    <th>DATE:</th>
+    <th></th>
+    <th>TITLE:</th>
+  </tr>
+  {% for post in site.categories.blog %}
+  <tr>
+    <td>{{ post.date | date_to_string }}</td>
+    <td><img src="{{ post.image }}" width="128" height="77"></td>
+    <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+  </tr>
+  {% endfor %}
+</table>
+</div>
+
+<div id="Podcast" class="tabcontent">
+  <br>
+  <table>
+    <tr>
+      <th>DATE:</th>
+      <th></th>
+      <th>TITLE:</th>
+    </tr>
+    {% for post in site.categories.podcast %}
+    <tr>
+      <td>{{ post.date | date_to_string }}</td>
+      <td><img src="{{ post.image }}" width="128" height="77"></td>
+      <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+  </table>
+</div>
+
+<script>
+function openCat(evt, catName) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) {
+    tabcontent[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablinks");
+  for (i = 0; i < tablinks.length; i++) {
+    tablinks[i].className = tablinks[i].className.replace(" active", "");
+  }
+  document.getElementById(catName).style.display = "block";
+  evt.currentTarget.className += " active";
+}
+</script>

@@ -1,0 +1,36 @@
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body class="lh-copy dark-gray pa0 f6 sans-serif bg-super-white">
+  <header class="tc mt4">
+    <br>
+    <a name="top"></a>
+  </header>
+  <div class="mw7 bg-white mt3 mb3 center br3-ns bt bb ba-ns b--black">
+    <nav class="bb b--black pv3 tc" aria-label="Main">
+      {% for link in site.links %}
+      <a class="link blue hover-mid-gray mh2 pv1" href="{% unless link.external %}{{ site.url }}{% endunless %}{{ link.url }}" style="font-size: 18px";> {{ link.name }} </a>
+      {% endfor %}
+    </nav>
+    <main class="tl f6 relative pa3 pa3-ns overflow-hidden">
+      {% if page.date %}
+      {% include post.html %}
+      {% endif %}
+      <div class="markdown-body">
+        {% if page.p %}
+        <center><img src="/images/logo.jpg" alt="TechnicalOutcast.com"></center>
+        <br><br>
+        {% endif %}
+        {{ content }}
+      </div>
+      {% if page.date %}{% include signoff.html %}{% endif %}
+    </main>
+    {% if page.date %}{% include pagination.html %}{% endif %}
+  </div>
+  <footer class="mw7 center tc pt3 pb4 white">
+    &copy; {{ site.time | date: '%Y' }} Steve Ragan | {{ site.title }}<br>
+  </footer>
+</body>
+</html>
+<!-- default-html checked 1-3-20 -->

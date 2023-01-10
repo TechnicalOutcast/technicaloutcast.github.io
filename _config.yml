@@ -1,0 +1,39 @@
+# ----------- CONFIGURABLE START -----------
+title:            "Technical Outcast"
+description:      "Technical Outcast is a new project from Steve Ragan."
+url:              https://technicaloutcast.com # Site url, without a slash at the end.
+signoff:          "Steve" # Your name
+
+facebook_appid:   # APP ID for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # Set tracking, remove from /javascripts/basic.js if unwanted.
+share:            false # Turn on twitter and facebook share buttons
+
+links:
+  - name:         Home
+    url:          /
+    external:     false
+
+  - name:         Topics
+    url:          /categories
+    external:     false
+
+  - name:         About
+    url:          /about
+    external:     false
+
+  - name:         Contact
+    url:          /contact
+    external:     false
+# ------------ CONFIGURABLE END ------------
+
+permalink:        /:year/:month/:day/:title/
+defaults:
+  - values:
+      layout: "default"
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-redirect-from
+# -- checked 1-3-20 --
+future: false
+timezone: America/Indiana/Indianapolis

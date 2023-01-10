@@ -1,0 +1,24 @@
+---
+layout: default
+permalink: /category/podcast/
+title: Podcast
+---
+<center>
+  <h1>-[&nbsp;&nbsp;&nbsp;&nbsp;<u>Podcast</u>&nbsp;&nbsp;&nbsp;&nbsp;]-</h1>
+  <p>Here are all the posts tagged under the Podcast label.</p>
+</center>
+<hr>
+<table>
+  <tr>
+    <th>DATE:</th>
+    <th></th>
+    <th>TITLE:</th>
+  </tr>
+  {% for post in site.categories.podcast %}
+  <tr>
+    <td>{{ post.date | date_to_string }}</td>
+    <td><img src="{{ post.image }}" width="128" height="77"></td>
+    <td><a href="{{ post.url | relative_url }}">{{ post.title }}</a></td>
+  </tr>
+  {% endfor %}
+</table>

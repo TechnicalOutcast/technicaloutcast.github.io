@@ -1,0 +1,205 @@
+@import "https://unpkg.com/tachyons@4.6.1/css/tachyons.min.css";
+
+.bg-super-white { background: #0a090a; }
+.top-50 { top: 50% }
+.pointers { pointer-events: auto; }
+.no-pointers { pointer-events: none; }
+.link:hover {
+  color: #151314;
+  text-decoration: underline;
+}
+/* .link:hover { background: url(/images/line.png) repeat-x left bottom; } */
+a.top:link {
+  text-decoration: none;
+  color: #151314;
+}
+a.top:active {
+  text-decoration: none;
+/*  color: #0E222F; */
+    color: #151314;
+}
+a.top:visited {
+  text-decoration: none;
+  color: #151314;
+}
+a.top:hover {
+  text-decoration: none;
+  color: #151314;
+}
+/* Markdown styles */
+.markdown-body a {
+  text-decoration: none;
+/*  color: #15475B; */
+    color: blue
+}
+.markdown-body .highlighter-rouge {
+  padding: .25rem .5rem;
+}
+.markdown-body pre {
+  margin: 0;
+  overflow: auto;
+}
+/* .markdown-body > .highlighter-rouge,
+.markdown-body > blockquote {
+  padding: .5rem 4rem;
+  margin: 2em -4rem;
+} */
+.markdown-body > hr {
+  margin: 2em -4rem;
+  border: 0;
+  border-bottom: 1px dotted #000;
+}
+/* .markdown-body blockquote {
+  background: #A9D9B7;
+  border-left: .2rem solid #000;
+  padding-left: 3.8rem;
+} */
+.markdown-body table {
+  font-size: inherit;
+  width: 100%;
+  margin-bottom: 2em;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.markdown-body table th,
+.markdown-body table td {
+  padding: .8em .4em;
+  border-bottom: 1px solid #000;
+  border-bottom-color: rgba(0,0,0,0.2);
+}
+/* end Markdown styles */
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: left;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 16px;
+  transition: 0.3s;
+  font-size: 17px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  -webkit-animation: fadeEffect 1s;
+  animation: fadeEffect 1s;
+}
+
+/* Fade in tabs */
+@-webkit-keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+
+blockquote {
+  background: #e5e5e5;
+  border-left: 10px solid #2d5c8a;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+blockquote:before {
+  color: #ccc;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+
+blockquote p {
+  display: inline;
+}
+
+dl {
+	background: #e5e5e5;
+  border-left: 10px solid #2d5c8a;
+  margin: 1.5em 10px;
+  padding: 0.5em 10px;
+}
+
+.callout-hr {
+  border-top: 1px dotted #151314;
+}
+
+/* {% include box.html class="" label="" content="" %} */
+
+.box-error {
+  --tw-bg-opacity: 1;
+  background-color: rgba(239, 238, 239, var(--tw-bg-opacity));
+  border-left: 10px solid;
+  border-left-color: firebrick;
+  border-radius: 0.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  --tw-text-opacity: 1;
+  color: rgba(21, 19, 20, var(--tw-text-opacity));
+}
+
+.box-warning {
+  --tw-bg-opacity: 1;
+  background-color: rgba(239, 238, 239, var(--tw-bg-opacity));
+  border-left: 10px solid;
+  border-left-color: darkorange;
+  border-radius: 0.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  --tw-text-opacity: 1;
+  color: rgba(21, 19, 20, var(--tw-text-opacity));
+}
+
+.box-success {
+  --tw-bg-opacity: 1;
+  background-color: rgba(239, 238, 239, var(--tw-bg-opacity));
+  border-radius: 0.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  --tw-text-opacity: 1;
+  color: rgba(21, 19, 20, var(--tw-text-opacity));
+  border-left: 10px solid;
+  border-left-color: darkolivegreen;
+}
+
+.warning_slider {
+  --tw-bg-opacity: 3;
+  background-color: rgba(253, 212, 220, var(--tw-bg-opacity));
+  border-radius: 0.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  --tw-text-opacity: 3;
+  color: rgba(21, 19, 20, var(--tw-text-opacity));
+/* {% include slider.html label="" content="" %} */
+}
