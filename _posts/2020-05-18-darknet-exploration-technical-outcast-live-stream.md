@@ -3,7 +3,7 @@ layout: default
 title: Technical Outcast Live Stream - Darknet Exploration
 categories: podcast
 permalink: /podcast/:year/:month/:day/:title/
-date: 2018-11-04
+date: 2020-05-18
 description: The first episode of the Technical Outcast podcast
 image: /images/podcast.jpg
 ---
