@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Twitter Changes Basic Account Rules Heading Into Election Season
-categories: news
-permalink: /news/:year/:month/:day/:title/
-date: 2018-10-01
-description: I took the month of December off, and after a week, I needed something to do. So, I built a website to teach myself a few things, and this is the first post.
 image: /images/twitter-3391833_1920.jpg
+categories: news
+tags: news voting social-media
+date: 2018-10-01
+permalink: /news/:year/:month/:day/:title/
+description: I took the month of December off, and after a week, I needed something to do. So, I built a website to teach myself a few things, and this is the first post.
 ---
 
 [Twitter has disclosed some rule changes heading into the mid-term elections][1], and one of them has an impact on data. According to their blog post, the social media giant is going to close accounts that share hacked data, as well as those accounts that claim responsibility for a given hack.

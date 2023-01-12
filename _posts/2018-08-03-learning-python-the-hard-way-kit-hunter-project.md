@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Learning Python the Hard Way - Kit Hunter Project
-categories: blog
-permalink: /blog/:year/:month/:day/:title/
-date: 2018-08-03
-description: So I wanted to learn Python, and I figured the best way to do so would be a project of some kind. Since Phishing research is a hobby and interest of mine, that’s where I started.
 image: /images/kit_hunter_example.jpg
+categories: blog
+tags: blog projects python phishing
+date: 2018-08-03
+permalink: /blog/:year/:month/:day/:title/
+description: So I wanted to learn Python, and I figured the best way to do so would be a project of some kind. Since Phishing research is a hobby and interest of mine, that’s where I started.
 ---
 
 ## I’ve started to code in Python

@@ -19,6 +19,13 @@
       {% unless forloop.last %}&nbsp;{% endunless %}
       {% endfor %}
     </div>
+    <div class="post-categories">
+      <b>Tags:</b>
+      {% for tag in page.tags %}
+      {% capture tag_name %}{{ tag }}{% endcapture %}
+      <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>&nbsp;
+      {% endfor %}
+   </div>
   </div>
   {% endif %}
   <center><img src="{{ page.image | absolute_url}}"></center>

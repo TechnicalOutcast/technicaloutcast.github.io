@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Technical Outcast - IOCs and CVEs in the OT
-categories: podcast
-permalink: /podcast/:year/:month/:day/:title/
-date: 2020-10-04
-description: Episode 004 of Technical Outcast - IOCs and CVEs in the OT
 image: /images/podcast.jpg
+categories: podcast
+tags: iot ot podcast vulnerabilities
+date: 2020-10-04
+permalink: /podcast/:year/:month/:day/:title/
+description: Episode 004 of Technical Outcast - IOCs and CVEs in the OT
 ---
 
 Today we're joined by Ron Brash ([@ron_brash][1]), the Director of Cyber Security Insights at ([Verve Industrial Protection][2]).

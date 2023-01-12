@@ -1,11 +1,12 @@
 ---
 layout: default
 title: COVID-19 - Spare a Thought for Hourly Workers
-categories: blog
-permalink: /blog/:year/:month/:day/:title/
-date: 2020-03-09
-description: Having traveled to an area where COVID-19 was spreading, I'm reminded of how lucky I am.
 image: /images/covid19_top.jpg
+categories: blog
+tags: covid-19 blog
+date: 2020-03-09
+permalink: /blog/:year/:month/:day/:title/
+description: Having traveled to an area where COVID-19 was spreading, I'm reminded of how lucky I am.
 ---
 
 _Image Credit: Centers for Disease Control and Prevention (CDC)_

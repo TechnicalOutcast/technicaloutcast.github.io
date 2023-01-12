@@ -1,11 +1,12 @@
 ---
 layout: default
 title:  Technical Outcast - Personal Impact and Interactions (Andy Explains)
-categories: podcast
-permalink: /podcast/:year/:month/:day/:title/
-date: 2020-08-20
-description: Episode 003 of Technical Outcast - Andy Explains Personal Impact and Interactions
 image: /images/podcast.jpg
+categories: podcast
+tags: andy-explains podcast
+date: 2020-08-20
+permalink: /podcast/:year/:month/:day/:title/
+description: Episode 003 of Technical Outcast - Andy Explains Personal Impact and Interactions
 ---
 
 Andy Ellis ([@csoandy][1]), CSO at Akamai Technologies, joins Steve Ragan for a discussion about adding value, and having an impact when interacting with the public. It's the little things that matter, and during their talk, Steve and Andy discuss how things in their past shaped who they are and how they interact with the public today.

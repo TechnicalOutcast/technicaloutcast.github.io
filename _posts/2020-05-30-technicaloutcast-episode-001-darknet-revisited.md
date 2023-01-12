@@ -2,6 +2,7 @@
 layout: default
 title: Technical Outcast - Darknet Revisited
 categories: podcast
+tags: darknet podcast
 permalink: /podcast/:year/:month/:day/:title/
 date: 2020-05-30
 description: Episode 001 of Technical Outcast - Darknet Revisited

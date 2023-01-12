@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Extortion Emails Threaten Victims with Bombings, Demand Bitcoin Payoff
-categories: news
-permalink: /news/:year/:month/:day/:title/
-date: 2019-07-30
-description: Over the last few days, someone has been targeting organizations with extortion letters that threaten a bombing unless payment is made via Bitcoin.
 image: /images/Bitcoin_Slon.pics-150913934536364.jpg
+categories: news
+tags: news bitcoin scams
+date: 2019-07-30
+permalink: /news/:year/:month/:day/:title/
+description: Over the last few days, someone has been targeting organizations with extortion letters that threaten a bombing unless payment is made via Bitcoin.
 ---
 
 Over the last few days, someone has been targeting organizations with extortion letters that threaten a bombing unless payment is made via Bitcoin.

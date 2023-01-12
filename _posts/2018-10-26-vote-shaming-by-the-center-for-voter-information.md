@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Vote Shaming by the Center for Voter Information
-categories: news
-permalink: /news/:year/:month/:day/:title/
-date: 2018-10-26
-description: I got an interesting letter in the mail recently, and so did several of my friends and neighbors. It came from the Center for Voter Information, and it comes off feeling like vote shaming
 image: /images/vote.jpg
+categories: news
+tags: news scams voting
+date: 2018-10-26
+permalink: /news/:year/:month/:day/:title/
+description: I got an interesting letter in the mail recently, and so did several of my friends and neighbors. It came from the Center for Voter Information, and it comes off feeling like vote shaming
 ---
 
 IMAGE CREDIT: CENTER FOR VOTER INFORMATION

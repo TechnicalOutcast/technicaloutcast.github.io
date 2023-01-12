@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Technical Outcast - Breaking Things With a Purpose
-categories: podcast
-permalink: /podcast/:year/:month/:day/:title/
-date: 2020-10-25
-description: Episode 005 of Technical Outcast - Breaking Things With a Purpose
 image: /images/podcast.jpg
+categories: podcast
+tags: podcast vulnerabilities
+date: 2020-10-25
+permalink: /podcast/:year/:month/:day/:title/
+description: Episode 005 of Technical Outcast - Breaking Things With a Purpose
 ---
 
 In today's episode, we're joined by Jake Miller ([@theBumbleSec][1]) from Bishop Fox to discuss various aspects of the pen-testing industry, such as policy and scope, as well as getting the most out of your assessments. Jake also shares an amusing war story involving Microsoft Excel, and the power of basic built-in functions.

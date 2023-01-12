@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Project Update - Kit Hunter v0.2.27 Released
-categories: blog
-permalink: /blog/:year/:month/:day/:title/
-date: 2018-10-28
-description: Earlier this summer I wrote about Kit Hunter. Today I updated the core code because I needed to add a brief note explaining the delay as the tags file itself is read.
 image: /images/kit_hunter_example.jpg
+categories: blog
+tags: blog projects python phishing
+date: 2018-10-28
+permalink: /blog/:year/:month/:day/:title/
+description: Earlier this summer I wrote about Kit Hunter. Today I updated the core code because I needed to add a brief note explaining the delay as the tags file itself is read.
 ---
 
 ## Kit Hunter Updated to v0.2.27

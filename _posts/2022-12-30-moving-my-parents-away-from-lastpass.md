@@ -1,13 +1,14 @@
 ---
 layout: default
 title: Moving my parents away from LastPass
-categories: blog
-permalink: /blog/:year/:month/:day/:title/
-date: 2022-12-30
-description: Like most of us in tech, I’m the go to IT person for the family. A few years back, I moved most of my family over to LastPass. Now, I’ve moved them away from LastPass.
 image: /images/lastpass_app.jpg
+categories: blog
+tags: lastpass passwords data-breach blog
+date: 2022-12-30
+permalink: /blog/:year/:month/:day/:title/
+description: Like most of us in tech, I’m the go to IT person for the family. A few years back, I moved most of my family over to LastPass. Now, I’ve moved them away from LastPass.
 ---
-## Mom and dad had questions
+## Mom and Dad Had Questions
 The LastPass debacle reached outside of my InfoSec bubble recently, and into my family this holiday. My parents learned about the data breach via the news and Facebook, and asked me for an explanation.
 
 For people in their 70s, my parents are rather tech savvy. They’re at least to the point where they can function on the internet and do whatever they want. Both mom and dad know enough now to understand how serious the LastPass incident is. But honestly, my parents don’t care too much for the technical details. They just want to get to the point and understand the facts of the matter, which made my job explaining things easier.

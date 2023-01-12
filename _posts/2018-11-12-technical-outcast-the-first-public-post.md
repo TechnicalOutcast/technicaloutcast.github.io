@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Technical Outcast - The First Public Post
-categories: blog
-permalink: /blog/:year/:month/:day/:title/
-date: 2018-11-12
-description: Well. Here it is. The first post public post I’m putting up online at Technical Outcast now that the website isn’t invite only.
 image: /images/patrick-fore-381200-unsplash-e1539478588788.jpg
+categories: blog
+tags: blog news
+date: 2018-11-12
+permalink: /blog/:year/:month/:day/:title/
+description: Well. Here it is. The first post public post I’m putting up online at Technical Outcast now that the website isn’t invite only.
 ---
 
 Well. Here it is. The first post public post I’m putting up online at Technical Outcast now that the website isn’t invite only. Some of you will notice I’ve removed a lot of the old content. It isn’t needed now. For the curious, it was mostly research notes, story notes, and random links to various things.

@@ -1,11 +1,12 @@
 ---
 layout: default
 title: Technical Outcast - Work Life Balance (Andy Explains)
-categories: podcast
-permalink: /podcast/:year/:month/:day/:title/
-date: 2020-06-17
-description: Episode 002 of Technical Outcast - Andy Explains Work/Life Balance
 image: /images/podcast.jpg
+categories: podcast
+tags: andy-explains podcast
+date: 2020-06-17
+permalink: /podcast/:year/:month/:day/:title/
+description: Episode 002 of Technical Outcast - Andy Explains Work/Life Balance
 ---
 Andy Ellis ([@csoandy][1]), CSO at Akamai Technologies, joins Steve Ragan for a discussion about work / life balance, in this inaugural segment called Andy Explains. Today's Andy Explains segment is an important one, as the balance between daily life and work has become central to people across the globe during the COVID-19 pandemic.
 
