@@ -19,8 +19,9 @@ jobs:
       uses: cicirello/generate-sitemap@v1
       with:
         base-url-path: https://technicaloutcast.com/
+        path-to-root: '.'
         drop-html-extension: true
-        include-html: false
+        include-html: true
         include-pdf: false
         
 
