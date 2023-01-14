@@ -6,7 +6,7 @@ categories: news
 tags: news passwords data-breach credential-stuffing
 date: 2023-01-17
 permalink: /news/:year/:month/:day/:title/
-description: Breach notification letters from Norton LifeLock warn that customers using their password manager services have been compromised. However, unlike the LastPass data breach, this security incident is due to credential stuffing attacks.
+description: Breach notification letters from Norton LifeLock warn that customers using their password manager services have been compromised. The situation is exactly what those affected by the LastPass data breach are worried about.
 ---
 ## Norton LifeLock Breach Notification
 
@@ -69,9 +69,18 @@ My parents use sentences to unlock their password manager, and those sentences a
 
 The trick is to make it something you can remember, and something that no one would guess, even if they know you.
 
+### Don't Want A Sentence?
+
+If you don't want to use a sentence as your master password, then I suggest using a password that is long ([such as six Diceware words][3]) backed by a YubiKey. Visit [this link][4] to learn how to use a YubiKey to protect your password manager, and get instructions for many of the popular password management tools on the market.
+
+No matter what, you should use a password manager. Maybe you should avoid LastPass though.
+
 But seriously, use a password manager.
 
 -[30]-
 
 [1]: https://ago.vermont.gov/blog/2023/01/09/nortonlifelock-gen-digital-data-breach-notice-to-consumers/
 [2]: https://technicaloutcast.com/news/2023/01/16/lastpass-data-breach-timeline-need-to-know/
+[3]: https://diceware.dmuth.org/
+[4]: https://www.yubico.com/works-with-yubikey/catalog/?usecase=25&sort=popular
+[5]: https://technicaloutcast.com/news/2023/01/16/lastpass-data-breach-timeline-need-to-know/

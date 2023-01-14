@@ -4,7 +4,7 @@ title: The LastPass Data Breach Overview
 image: /images/lastpass_app.jpg
 categories: news
 tags: news passwords data-breach lastpass
-date: 2023-01-16
+date: 2023-01-14
 permalink: /news/:year/:month/:day/:title/
 description: Since I blogged about moving my parents away from LastPass, I wanted to create a sort of an index related to the data breach, and a timeline explaining everything you need to know about it.
 ---
@@ -68,6 +68,19 @@ Palant summed up the situation rather well, change your passwords.
 
 >If you are someone who might be targeted by state-level actors: danger is imminent, and you should change all your passwords ASAP. If you are a regular “nobody”: access to your accounts is probably not worth the effort. Should you hold the keys to your company’s assets however (network infrastructure, HR systems, hot legal information), it should be a good idea to replace these keys now.
 
+### Additional Reading
+
+Brian X. Chen at The New York Times has a good piece on the incident titled: [A Breach at LastPass Has Password Lessons for Us All][9]
+
+LastPass is facing a class action lawsuit, filed in the US District Court of Massachusetts, [filed by a man who lost $53,000 in Bitcoin][10]. This individual's LastPass account followed all of the company's recommended best practices, but that didn't stop criminals from wiping out his assets.
+
+To put it plainly, the claim made by the lawyers representing the man states that "LastPass 'Best Practices' Were Woefully Insufficient to Protect its Users’  Private Information from Compromise and Misuse" Remember, LastPass claimed it would be extremely difficult to brute force master passwords if customers followed best practices.
+
+The legal team preparing the lawsuit address this, even going so far as to cite Wladimir Palant.
+
+>[LastPass] never provided direct notice to Plaintiff or Class members of  any such “best practices,” nor did it ever attempt to enforce these practices; not to mention,  Defendant’s “stronger-than-typical” implementation of 100,100 iterations of the PBKDF2  algorithm is actually well below the standard 310,000 iterations recommendation by the Open  Web Application Security Project (“OWASP”).6
+
+Lily Hay Newman at Wired published ["Yes, It’s Time to Ditch LastPass"][11] noting in the subhead that the LastPass incident was so concerning " users need to take immediate steps to protect themselves."
 
 
 -[30]-
@@ -82,5 +95,8 @@ ______
 [6]: https://palant.info/2022/12/26/whats-in-a-pr-statement-lastpass-breach-explained/
 [7]: https://palant.info/2022/12/28/lastpass-breach-the-significance-of-these-password-iterations/
 [8]: https://blog.1password.com/not-in-a-million-years/
+[9]: https://www.nytimes.com/2023/01/05/technology/personaltech/lastpass-breach-password-safety.html
+[10]: https://storage.courtlistener.com/recap/gov.uscourts.mad.252095/gov.uscourts.mad.252095.1.0_2.pdf
+[11]: https://www.wired.com/story/lastpass-breach-vaults-password-managers/
 
 [^1]: An MFA fatigue attack is where a criminal will trigger MFA push notifications over and over again until the victim gets sick of seeing them, presuming the notification flood is a technical glitch, and just accepts the request.
