@@ -31,7 +31,11 @@ The OIG report really centers on the need for MFA adoption, and urges DOI to spe
 ><br><br>
 >We also learned that the Department’s password complexity requirements implicitly allowed unrelated staff to use the same inherently weak passwords and that the Department did not timely disable inactive accounts or enforce password age limits. It is likely that if a well-resourced attacker were to capture Department AD password hashes, the attacker would have achieved a success rate similar to ours in cracking the hashes.
 
-![Table 1 from the OIG report showing the number and type of passwords cracked.](https://technicaloutcast.com/images/post-images/OIG-Report/table1.jpg)
+![Figure 1 from the OIG report showing the number and type of passwords cracked.](https://technicaloutcast.com/images/post-images/OIG-Report/table1.jpg)
+
+The OIG found a wide variance between bureau and office, as shown in the image below. This demonstrates that things are not equal between the agencies at DOI, and there is a clear disconnect between policies and processes.  
+
+![Figure 3 from the OIG report showing the breakdown of cracked passwords between office and bureau.](https://technicaloutcast.com/images/post-images/OIG-Report/table2.jpg)
 
 The summarized OIG findings are below:
 
