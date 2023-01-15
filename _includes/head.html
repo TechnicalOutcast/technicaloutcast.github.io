@@ -3,20 +3,26 @@
   {% include collecttags.html %}
   {% endif %}
   <title>{{ page.title }} - {{ site.title }}</title>
-  <meta content='text/html; charset=utf-8' http-equiv='content-type' />
-  <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+  <meta content='{{ page.title }} - {{ site.title }}' name='title' />
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+
   <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{'/feed.xml' | relative_url}}">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+  <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
   <link href="{{'/stylesheets/style.css' | relative_url}}" rel='stylesheet' type='text/css' />
 
-
-
+  <meta name="msapplication-TileColor" content="#da532c">
+  <meta name="theme-color" content="#ffffff">
 
   <link href="{{'/stylesheets/syntax.css' | relative_url }}" rel='stylesheet' type='text/css' />
   <link href="{{'/images/fav.png' | relative_url }}"  rel='shortcut icon'>
-  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
-  <meta content='{{ page.title }} - {{ site.title }}' name='title' />
-  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta content='text/html; charset=utf-8' http-equiv='content-type' />
+  <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
 
 <!-- Facebook -->
   <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />

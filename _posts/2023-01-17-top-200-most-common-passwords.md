@@ -8,7 +8,7 @@ date: 2023-01-17
 permalink: /news/:year/:month/:day/:title/
 description:  NordPass recently published their report focusing on the Top 200 most common passwords, broken down  by region and topic, and the results are about what you'd expect.
 ---
-### Recycled, reused, easily guessed passwords
+### Recycled, Reused, Easily Guessed Passwords
 NordPass [recently published their report focusing on the Top 200 most common passwords][1], broken down  by region and topic, and the results are about what you'd expect.
 
 Truth be told, I didn't know lists like this were still a thing. Years ago, back when I had an active byline, I'd get pitched on stuff like this. While there was a general interest, most IT and InfoSec readers just didn't care, as it was the same story year-to-year. It was good filler content though, something to get a few clicks on a slow day.
@@ -33,13 +33,13 @@ So let's see what this year has to offer. Here is a breakdown of the top 20 most
  | **10** | 123123     | 127,762    | **20** | 123         | 60,795   |
 {: .box-success }
 
-### The pattern remains
+### The Pattern Remains
 What I see here are throwaway passwords and mobile passwords. Things that people used because they are quick and easy to type. Does that invalidate the list? Absolutely not. In fact, it proves a point that humans will want convenience over complexity. Last June, Digital Shadows published [research stating that some 24 billion][2] username and password combinations were available online. That's a 65% increase over the totals from 2020.
 
-#### A word about the process
+#### A Word About the Process
 Criminals often get their password collections from phishing and infostealer installs. The harvested passwords are then placed into collections that are sold and traded, before being merged into sub-collections based on account, regional breakdowns, access type, etc. Over the years when I was doing research at Akamai, I would monitor and track the credential harvesting and account takeover trade, so the data presented by Digital Shadows isn't unbelievable at all. If anything, it might be conservative.
 
-### It's a decent report, but it's lacking
+### It's a Decent Report, but it's Lacking
 NordPass says that the passwords in their list come from a primary collection that is 3TB in size, sourced from researchers working security incidents. That doesn't really explain the source of the passwords. It's a trivial personal gripe of mine when the context isn't fully explained.
 
 I'm still not a fan of these lists. While the NordPass research covered the Top 200 globally, they also do a breakdown of the passwords by country, gender, and even type (fashion brands, cards, food, movies, swear words, video games, and artists). But there was plenty missing. How about a breakdown of passwords by length, complexity, and root-word?
@@ -67,7 +67,7 @@ If you notice, most of the passwords in the RockYou list are between 6-8 charact
 
 So what does the RockYou list tell us? The stats show that most people were using easily remembered passwords, and following the general advice at the time, which was 5-8 character passwords with letters and numbers. A small percentage, the clear minority, went above and beyond with their passwords. That advice is terrible now, and most password cracking programs would make short work of the RockYou list today.
 
-### Password managers are essential
+### Password Managers are Essential
 But the RockYou list does give us an example of why password managers are so important. Humans can't do complex, especially once you mix in special characters, upper and lowercase letters, and numbers. A human would likely stick to a pattern - (```ZxcZaq123!```) - or a easily remembered series of words with a repeatable pattern - (```!!Alph@Br@v0G@mm@D3lt@!!```) - that will only slow a password cracking rig for a few seconds before the passwords  are cracked.
 
 This is why password managers are superior. They can create truly random, lengthy passwords that a human never has to remember. Just remember to make the master password a good one, perhaps a sentence would do the trick. Otherwise, you'll face [the same risks that LastPass users are facing][4].
