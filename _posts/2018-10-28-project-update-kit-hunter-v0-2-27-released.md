@@ -15,7 +15,7 @@ Earlier this summer I wrote about Kit Hunter, [my Python project for systems adm
 
 Normally, the script takes seconds to load and generate a report, but because the tags file has grown so much, I felt that adding some sort of notice was warranted. Since I changed the core code itself, the version number was updated to reflect it, even if it was a minor change.
 
-## More Changes In The Works
+## More changes in the works
 
 As for the tag file, it’s now at 200 lines, and will detect a majority of the kits currently being traded by scammers online. Today I added about 60 kits worth of new information, and I still have dozens of kits to research. If you’re [following the project on GitHub][2], make sure you grab a new copy or update your forks.
 
