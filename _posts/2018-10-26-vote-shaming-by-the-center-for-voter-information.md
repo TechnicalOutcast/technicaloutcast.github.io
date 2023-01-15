@@ -11,7 +11,7 @@ description: I got an interesting letter in the mail recently, and so did severa
 
 IMAGE CREDIT: CENTER FOR VOTER INFORMATION
 
-## We’ve mailed your voting record to your neighbors
+## We’ve Mailed Your Voting Record to Your Neighbors
 
 I got an interesting letter in the mail recently, and so did several of my friends and neighbors. It came from the Center for Voter Information, and it comes off feeling like vote shaming, if not an outright attempt at intimidation. The letter starts by informing me that while who I vote for is private, my voting record is not. This is true, but using voter information like this just comes off as tacky.
 

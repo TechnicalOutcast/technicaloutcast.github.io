@@ -6,14 +6,14 @@ categories: blog
 tags: blog projects python phishing
 date: 2018-10-28
 permalink: /blog/:year/:month/:day/:title/
-description: Earlier this summer I wrote about Kit Hunter. Today I updated the core code because I needed to add a brief note explaining the delay as the tags file itself is read.
+description: Earlier this summer I wrote about Kit Hunter. Today, I updated the core code.
 ---
 
 ## Kit Hunter Updated to v0.2.27
 
-Earlier this summer I wrote about Kit Hunter, [my Python project for systems administrators][1] that locates phishing kits on web servers. For the most part, most of the updates have centered on the tags file instead of the kit itself. Today I updated the core code because I needed to add a brief note explaining the delay as the tags file itself is read.
+Earlier this summer I wrote about Kit Hunter, [my Python project for systems administrators][1] that locates phishing kits on web servers. For the most part, most of the updates have centered on the tags file instead of the kit itself. Today, I updated the core code. I did so, because I needed to add a brief note explaining the delay as the tag files are rendered.
 
-Normally, the script takes seconds to load and generate a report, but because the tags file has grown so much, I felt that adding some sort of notice was warranted. Since I changed the core code itself, the version number was updated to reflect it, even if it was a minor change.
+Normally, the script takes seconds to load and generate a report, but because the tag files have grown so much, I felt that adding some sort of notice was warranted. Since I changed the core code, the version number was updated to reflect it, even if it was a minor change.
 
 ## More changes in the works
 

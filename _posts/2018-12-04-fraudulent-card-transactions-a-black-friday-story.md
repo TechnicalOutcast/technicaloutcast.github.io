@@ -3,7 +3,7 @@ layout: default
 title: Fraudulent Card Transactions - A Black Friday Story
 image: /images/CARD_IMG_20181125_142544102.jpg
 categories: blog
-tags: blog paypal scams fraud payment-cards
+tags: blog paypal scams fraud payment-cards cyber-monday black-friday
 date: 2018-12-04
 permalink: /blog/:year/:month/:day/:title/
 description: Dealing with card fraud is a frustrating and time consuming process. While you as the consumer are not liable for fraudulent charges, you do have to jump though some hoops to recover your funds. Most banks don’t hold you liable for anything related to debit card fraud. Check with your financial institution for more details.

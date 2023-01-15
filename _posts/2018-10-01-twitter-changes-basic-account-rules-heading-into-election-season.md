@@ -6,7 +6,7 @@ categories: news
 tags: news voting social-media
 date: 2018-10-01
 permalink: /news/:year/:month/:day/:title/
-description: I took the month of December off, and after a week, I needed something to do. So, I built a website to teach myself a few things, and this is the first post.
+description: According to their blog post, the social media giant is going to close accounts that share hacked data, as well as those accounts that claim responsibility for a given hack.
 ---
 
 [Twitter has disclosed some rule changes heading into the mid-term elections][1], and one of them has an impact on data. According to their blog post, the social media giant is going to close accounts that share hacked data, as well as those accounts that claim responsibility for a given hack.

@@ -28,7 +28,7 @@ As mentioned, prior to today, I used this blog to test out ideas, share things w
 
 So this post will help get me over my writer’s block, and give you a little explanation about where things stand in my world at the moment.
 
-## Getting exactly what you wanted
+## Getting Exactly What You Wanted
 
 I started working in journalism in 2005. I’ve written for a number of publications, but I secretly had a dream job when it came to my writing. It took eight years of hard work, but I finally got it.
 
@@ -50,7 +50,7 @@ But it was my effort, knowledge, and skill which allowed me to ultimately land t
 
 I grew Salted Hash by leaps and bounds, not only according to the standards set by internal metrics, but also as a brand and I’m really proud of that.[^1] IDG is an amazing company to work for, and I will be eternally grateful for my time there learning and growing. Not to mention, I had fantastic bosses. Joan, and later Amy, helped me get better and encouraged me to run instead of walk. Most importantly, they encouraged me to never fear failure when it came to a story or idea. Instead, I should embrace it and learn from it.
 
-## Moving forward
+## Moving Forward
 
 A few weeks ago, I got an opportunity to do something I’ve always wanted to do, but previously couldn’t, due to logistical reasons or just a lack of cycles.
 

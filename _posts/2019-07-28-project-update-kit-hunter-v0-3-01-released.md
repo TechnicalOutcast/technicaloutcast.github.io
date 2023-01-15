@@ -6,7 +6,7 @@ categories: blog
 tags: blog projects python phishing
 date: 2019-07-28
 permalink: /blog/:year/:month/:day/:title/
-description: I sorted 66 phishing kits today and added new tags to help identify them. These updates will also likely discover other kits that are likely to be developed from the base code.
+description: I sorted 66 phishing kits today and added new tags to help identify them.
 ---
 
 ## Kit Hunter Updated to v0.3.01
