@@ -11,7 +11,7 @@ description:  An Office of Inspector General report says that 21% of the US Depa
 
 An [Office of Inspector General (OIG) report says][1] that 21% of the US Department of the Interior (DOI) passwords were easily cracked during a recent test. The report found rampant password reuse, weak password schemes, and a lack of MFA.
 
-Since I've been talking about passwords and the risks associated with them this week, I felt an overview of the report was in order.
+Since I've been [talking about passwords][5] and the risks associated with them this week, I felt an overview of the report was in order.
 
 ### Password Problems at the DOI
 
@@ -39,7 +39,7 @@ The OIG found a wide variance between bureau and office, as shown in the image b
 
 ![Figure 3 from the OIG report showing the breakdown of cracked passwords between office and bureau.](https://technicaloutcast.com/images/post-images/OIG-Report/table2.jpg)
 
-The types of passwords that were commonly reused across accounts present a serious problem. Not only are they easily cracked and guessed, they belong to high-value assets. If these passwords were compromised, then the threat actor would have little problems leveraging the access granted to move about the network.
+The types of passwords that were commonly reused across accounts (see image below) present a serious problem. Not only are they easily cracked and guessed, they belong to high-value assets. If these passwords were compromised, then the threat actor would have little problems leveraging the access granted to move about the network.
 
 ![Figure 5 from the OIG report showing the most reused passwords.](https://technicaloutcast.com/images/post-images/OIG-Report/table3.jpg)
 
@@ -77,3 +77,4 @@ The Department did not timely disable inactive (unused) accounts or enforce pass
 [2]: https://github.com/ohmybahgosh/RockYou2021.txt
 [3]: https://www.comparitech.com/blog/vpn-privacy/us-government-breaches/
 [4]: https://www.ibm.com/reports/data-breach
+[5]: https://technicaloutcast.com/tag/passwords/
