@@ -1,4 +1,4 @@
-name: Build every hour
+name: Auto Publisher (8am-1pm-daily)
 
 on:
   schedule:
