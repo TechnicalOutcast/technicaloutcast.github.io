@@ -20,6 +20,9 @@ The [breach notification letter][1] reads in part:
 ><br><br>
 >In accessing your account with your username and password, the unauthorized third party may have viewed your first name, last name, phone number, and mailing address. Our records indicate that you utilize our Norton Password Manager feature and, we cannot rule out that the unauthorized third party also obtained details stored  there especially if your Password Manager key is identical or very similar to your Norton account password.
 
+**Update:** The Vermont AG office website hosting the breach notification is offline. Likely due to the number of websites linking to it, or perhaps they pulled it down for another reason. The full notice is at the end of this article.
+{: .box-warning }
+
 Norton LifeLock says they reset the passwords of those affected in order to prevent additional access attempts, and urged those impacted to change their password and leverage two-factor authentication in the future. In addition, the company is also offering credit monitoring services.
 
 ## Credential Stuffing
@@ -78,6 +81,14 @@ No matter what, you should use a password manager. Maybe you should avoid LastPa
 But seriously, use a password manager.
 
 -[30]-
+
+_Updated on 1/16/23 to include an image of the full breach notification_
+
+<hr>
+
+![The full Norton LifeLock data breach notification letter. ](https://technicaloutcast.com/images/post-images/NortonLifeLock/full-breach-notice.jpg)
+
+
 
 [1]: https://ago.vermont.gov/blog/2023/01/09/nortonlifelock-gen-digital-data-breach-notice-to-consumers/
 [2]: https://technicaloutcast.com/news/2023/01/16/lastpass-data-breach-timeline-need-to-know/
