@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Norton LifeLock Password Manager Accounts Compromised
-image: /images/LifeLock_Logo.jpg
+image: /images/Lifelock_Logo.jpg
 categories: news
 tags: news passwords data-breach credential-stuffing
 date: 2023-01-16
