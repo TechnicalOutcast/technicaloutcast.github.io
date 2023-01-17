@@ -39,7 +39,7 @@ What I see here are throwaway passwords and mobile passwords. Things that people
 #### A Word About the Process
 Criminals often get their password collections from phishing and infostealer installs. Assuming they were not immediately used, the harvested passwords are then placed into collections that are sold and traded, before being merged into sub-collections based on account, regional breakdowns, access type, etc.
 
-**Note:** This a highly generalized and simplified version of how the criminal economy works with stolen or compromised credentials. Often by the time credentials are sold or traded in an open market, including those sorted in to specialized lists, they have been ran though by higher-tier criminals, such as ransomware gangs.
+**Note:** This a highly generalized and simplified version of how the criminal economy works with stolen or compromised credentials.<br><br> Often by the time credentials are sold or traded in an open market, including those sorted in to specialized lists, they have been ran though by higher-tier criminals, such as ransomware gangs.
 {: .box-error }
 
 Some curators will generate lists based on the initial password.
