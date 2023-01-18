@@ -24,11 +24,19 @@
   <meta content='text/html; charset=utf-8' http-equiv='content-type' />
   <meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
 
-<!-- Facebook -->
-  <meta content='{{ page.title }} - {{ site.title }}' name='og:title' />
-  <meta content='{{ site.url }}{{ page.url }}' property='og:url' />
-  <meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" property='og:description' />
+<!-- Facebook
+  <meta content='' name='og:title' />
+  <meta content='' property='og:url' />
+  <meta content="" property='og:description' />
   <meta content="article" property="og:type" />
+-->
+
+<meta property="og:title" content="{{ page.title }} - {{ site.title }}">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:type" content="article">
+<meta property="og:image" content="{{ site.url }}{{ page.image }}">
 
 <!-- Start Twitter SEO -->
 <!-- "image" variable? -->
@@ -72,4 +80,4 @@
 {% endif %}
 <!-- End Facebook APPID -->
 </head>
-<!-- checked 1-15-23 -->
+<!-- checked 1-18-23 -->
