@@ -5,7 +5,7 @@ image: /images/BestBuy_logo.jpg
 categories: blog
 tags: blog passwords data-breach darknet scams fraud
 date: 2023-01-20
-permalink: /news/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
 description:  When you see the news about a data breach or compromised passwords, have you ever wondered what happens next? What happens when your data is stolen? Here's a brief explainer based on personal experience, using real examples.
 ---
 
