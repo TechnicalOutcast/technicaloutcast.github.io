@@ -4,7 +4,7 @@ title: American Express ending text notifications
 image: /images/AMEX.jpg
 categories: news
 tags: news american-express payment-cards
-date: 2023-08-20
+date: 2023-08-20 17:20:00-0500
 permalink: /news/:year/:month/:day/:title/
 description:  American Express is warning customers that text alerts will end in September.
 ---
