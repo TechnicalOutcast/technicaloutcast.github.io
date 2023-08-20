@@ -1,6 +1,6 @@
 # ----------- CONFIGURABLE START -----------
 title:            "Technical Outcast"
-description:      "Technical Outcast is a new project from Steve Ragan."
+description:      "Technical Outcast is a new project by Steve Ragan that delivers news, analysis, and opinions related to the information security and other technology sectors."
 url:              https://technicaloutcast.com # Site url, without a slash at the end.
 signoff:          "Steve" # Your name
 
