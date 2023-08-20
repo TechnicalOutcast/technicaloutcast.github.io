@@ -6,7 +6,7 @@ categories: blog
 tags: blog ChatGPT OpenAI
 date: 2023-08-21
 permalink: /blog/:year/:month/:day/:title/
-description:
+description: Over the coming weeks and months, I will be experimenting with ChatGPT and looking at how ChatGPt-4 produces content. I will also be poking at ChatGPT as it relates to its bug bounty program, and there is a lot to do there.
 ---
 ### An Experiment with ChatGPT
 
@@ -35,7 +35,7 @@ Criminals can also use AI to process large amounts of compromised data. Using ba
 
 ### Bug Bounties and Partial-Full Disclosure
 
-I will be poking at ChatGPT as it relates to its [bug bounty program](https://bugcrowd.com/openai), and there is a lot to do there.
+I will also be poking at ChatGPT as it relates to its [bug bounty program](https://bugcrowd.com/openai), and there is a lot to do there.
 
 Since jailbreaks are out of scope for the program, I'll stick to posting about the funny ones here. If there is something really serious, I will do partial Full Disclosure. This will include confirming a jailbreak and disclosing the results, but keeping the exact details of the prompt and follow-up methods redacted. If the issue I discover is covered by the bounty program, I will report it there first and disclose as soon as possible.
 
