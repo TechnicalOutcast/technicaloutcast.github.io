@@ -82,9 +82,6 @@ The legal team preparing the lawsuit address this, even going so far as to cite 
 
 Lily Hay Newman at Wired published ["Yes, It’s Time to Ditch LastPass"][11] noting in the subhead that the LastPass incident was so concerning " users need to take immediate steps to protect themselves."
 
-
--[30]-
-
 ______
 
 [1]: https://technicaloutcast.com/blog/2022/12/30/moving-my-parents-away-from-lastpass/

@@ -73,8 +73,6 @@ Your data is online. That can be a scary thought, but if you accept that, life g
 
 Using these three things together will make it much harder for criminals to take over your accounts, run up random charges, or open random credit-based accounts. Not to mention, because your password manager will generate secure, completely random passwords any that have previously leaked will be useless once you go though the process of changing things out.
 
--[30]-
-
 [^1]: Credential stuffing attacks are where a criminal has a username and password, and then attempts to use this combination of credentials across several websites and services. For example, if they had a valid email login ```(user@gmail.com:password)``` they would attempt to use this combination on social media platforms, various online services such as Spotify, and retailers, like BestBuy, Walmart, or Target. These attacks are usually automated, and the criminal will run a list of hundreds, sometimes thousands of passwords against a given platform or service.
 
 [^2]: By aged out, I mean a collection of usernames and passwords that is old (30-days or more) and has little or no use to ransomware affiliates, or other bulk buyers.

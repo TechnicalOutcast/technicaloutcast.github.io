@@ -70,9 +70,6 @@ The Department did not timely disable inactive (unused) accounts or enforce pass
 {: .box-error }
 
 
-
--[30]-
-
 [1]: https://www.doioig.gov/sites/default/files/2021-migration/Final%20Inspection%20Report_DOI%20Password_Public.pdf
 [2]: https://github.com/ohmybahgosh/RockYou2021.txt
 [3]: https://www.comparitech.com/blog/vpn-privacy/us-government-breaches/

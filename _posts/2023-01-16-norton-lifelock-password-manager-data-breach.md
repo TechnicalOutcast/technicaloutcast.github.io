@@ -80,7 +80,6 @@ No matter what, you should use a password manager. Maybe you should avoid LastPa
 
 But seriously, use a password manager.
 
--[30]-
 
 _Updated on 1/16/23 to include an image of the full breach notification_
 

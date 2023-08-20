@@ -101,5 +101,3 @@ This is why password managers are superior. They can create truly random, length
 [2]: https://www.digitalshadows.com/press-releases/24-billion-usernames-and-passwords-available-on-the-dark-web-an-increase-of-65-in-just-two-years/
 [3]: https://digi.ninja/projects/pipal.php
 [4]: https://technicaloutcast.com/news/2023/01/14/lastpass-data-breach-timeline-need-to-know/
-
--[30]-
