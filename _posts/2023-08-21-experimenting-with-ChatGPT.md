@@ -3,7 +3,7 @@ layout: default
 title: Experimenting with ChatGPT
 image: /images/ChatGPT-1.jpg
 categories: blog
-tags: blog ChatGPT OpenAI
+tags: blog ChatGPT OpenAI artificial-intelligence
 date: 2023-08-21
 permalink: /blog/:year/:month/:day/:title/
 description: Over the coming weeks and months, I will be experimenting with ChatGPT and looking at how ChatGPt-4 produces content. I will also be poking at ChatGPT as it relates to its bug bounty program, and there is a lot to do there.
@@ -23,7 +23,7 @@ Within the security space, I am personally aware of at least one company that is
 
 >Under a new law, schools in Iowa have to remove titles with specific sexual content from libraries. Asking an AI chatbot proved to be the easiest way.
 
-A report in Wired, coming off a [brief in The Gazette](https://www.thegazette.com/k/19-books-pulled-from-mason-city-school-libraries/) talks about ChatGPT being used to enforce book banning laws. The [Wired article goes into more detail](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/), but the deeper problem isn't ChatGPT, laws like the one in Iowa have placed educators between a rock and a hard spot, often so people completely removed from  the education system can score political points.
+A report in Wired, coming off a [brief in The Gazette](https://www.thegazette.com/k/19-books-pulled-from-mason-city-school-libraries/) talks about ChatGPT being used to enforce book banning laws. The [Wired article goes into more detail](https://www.wired.com/story/chatgpt-ban-books-iowa-schools-sf-496/), but the deeper problem isn't ChatGPT, laws like the one in Iowa have placed educators between a rock and a hard spot, often so people completely removed from  the education system can score political points. Again, I think this is another example of expecting artificial intelligence to do too much without any verification. 
 
 ### No Silver Bullet for Criminals
 
