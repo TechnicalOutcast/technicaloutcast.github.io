@@ -9,7 +9,9 @@ permalink: /blog/:year/:month/:day/:title/
 description: HackBot is an AI-driven chatbot designed to provide helpful and accurate answers to various cybersecurity-related queries, while also doing code and vulnerability analysis.
 ---
 
-So I came across something pretty neat in my blog feed the other day. A project on GitHub by [morpheuslord](https://twitter.com/morpheuslord2), aims to answer basic security questions, while providing some static code analysis, and vulnerability analysis. I love little projects like this. Given that I've been doing a lot of research into artificial intelligence lately, a Meta-LLama2 driven script certainly caught my attention.
+So I came across something pretty neat in my blog feed the other day. A project on GitHub by [morpheuslord](https://twitter.com/morpheuslord2), aims to answer basic security questions, while providing some static code analysis, and vulnerability analysis.
+
+I love little projects like this. Given that I've been doing a lot of research into artificial intelligence lately, a Meta-LLama2 driven script certainly caught my attention.
 
 From the project page:
 
