@@ -4,7 +4,7 @@ title: HackBot&#58; An AI-driven security chatbot
 image: /images/hackbot.jpg
 categories: blog
 tags: blog random artificial-intelligence Meta-LLama2 vulnerabilities code-analysis
-date: 2023-08-21 12:00:00-0500
+date: 2023-08-22
 permalink: /blog/:year/:month/:day/:title/
 description: HackBot is an AI-driven chatbot designed to provide helpful and accurate answers to various cybersecurity-related queries, while also doing code and vulnerability analysis.
 ---
