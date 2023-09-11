@@ -1,6 +1,6 @@
 ---
 layout: default
-title: July&#39;s AP Stylebook phishing warning officially linked to data breach
+title: AP Stylebook phishing alert sent in July officially linked to data breach
 image: /images/stock/keyboard_phishing_hook.jpg
 categories: news
 tags: news data-breach AP-Stylebook Associated-Press
