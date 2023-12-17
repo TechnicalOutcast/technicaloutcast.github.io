@@ -11,7 +11,7 @@ description: Here is a brief recap of the items in my RSS feed.
 
 The RSS Archive is a log of the things I've come across in my RSS feeds. It could be news, code, scripts, etc. Sometimes, the roll-up might include social media posts. It just depends on what I am reading, and my mood at the moment. Along with an overview and summary of a given article (provided in part by my experiments with OpenAI and Generative AI application building), I've also included some personal thoughts.
 
-Feel free to share feedback with me on social media, I'm easily found.
+Feel free to share feedback with me on social media, [I'm easily found](https://technicaloutcast.com/about/).
 
 <hr>
 ### Otis data breach cries out for basic security fixes
