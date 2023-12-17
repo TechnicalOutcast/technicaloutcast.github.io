@@ -20,7 +20,7 @@ So I’m not really an outcast, I’m just a technical outcast.
 ## DISCLOSURE:
 Outside of 401(k) investments, in which he has no say into what companies are represented by a given fund, Steve Ragan has no other direct investments in the companies he covers. If such investments are ever made, this section will be updated with a full accounting of them.
 
-You can find me on the following social channels: [GitHub](https://github.com/SteveD3) -=- [Twitter](https://twitter.com/SteveD3) -=- <a rel="me" href="https://infosec.exchange/@SteveD3">InfoSec.Exchange</a> -=- [BlueSky](https://bsky.app/profile/steved3.io) -=- [LinkedIn](https://www.linkedin.com/in/steved3/)
+You can find me on the following social channels: [GitHub](https://github.com/SteveD3) - [Twitter](https://twitter.com/SteveD3) - <a rel="me" href="https://infosec.exchange/@SteveD3">InfoSec.Exchange</a> - [BlueSky](https://bsky.app/profile/steved3.io) - [LinkedIn](https://www.linkedin.com/in/steved3/)
 
 ## Image Credit:
 
