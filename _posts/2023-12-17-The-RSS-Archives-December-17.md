@@ -3,7 +3,7 @@ layout: default
 title: The RSS Archives&#58; December 17&#44; 2023
 image: /images/news_recaps.jpg
 categories: blog
-tags: blog random artificial-intelligence RSS OpenAI
+tags: blog artificial-intelligence RSS OpenAI
 date: 2023-12-17
 permalink: /blog/:year/:month/:day/:title/
 description: Here is a brief recap of the items in my RSS feed.

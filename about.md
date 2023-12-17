@@ -18,10 +18,14 @@ Over the years, while working as a full-time journalist covering security, I dea
 So I’m not really an outcast, I’m just a technical outcast.
 
 ## DISCLOSURE:
-Outside of 401(k) investments, in which he has no say into what companies are represented by a given fund, Steve Ragan has no other direct investments in the companies he covers. If such investments are ever made, this section will be updated with a full accounting of them.
+Outside of 401(k) investments, in which I have no say into what companies are represented by a given fund, I have no other direct investments in the companies he covers. If such investments are ever made, this section will be updated with a full accounting of them.
 
-You can find me on the following social channels: [GitHub](https://github.com/SteveD3) - [Twitter](https://twitter.com/SteveD3) - <a rel="me" href="https://infosec.exchange/@SteveD3">InfoSec.Exchange</a> - [BlueSky](https://bsky.app/profile/steved3.io) - [LinkedIn](https://www.linkedin.com/in/steved3/)
+You can find me on the following social channels:<br>
+
+| Twitter | BlueSky | LinkedIn | GitHub | InfoSec.Exchange |
+| --- | --- | --- | --- | --- |
+| [![Twitter](/images/twitter.png 'SteveD3 on Twitter')](https://twitter.com/SteveD3)  | [![BlueSky](/images/bluesky.png 'SteveD3 on BlueSky')](https://bsky.app/profile/steved3.io)  | [![LinkedIn](/images/linkedin.png 'SteveD3 on LinkedIn')](https://www.linkedin.com/in/steved3/)  | [![GitHub](/images/github.png 'SteveD3 on GitHub')](https://github.com/SteveD3) | [![InfoSec.Exchange](/images/mastodon.png 'SteveD3 on InfoSec.Exchange')](https://infosec.exchange/@SteveD3)  |
 
 ## Image Credit:
 
-Stock images used on this website can be found on Unsplash.com, PixaBay.com, and Slon.pics.
+Stock images used on this website can be found on DALL-E, Unsplash.com, PixaBay.com, and Slon.pics.
