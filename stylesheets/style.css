@@ -191,6 +191,20 @@ dl {
   border-left-color: darkolivegreen;
 }
 
+.box-news {
+  --tw-bg-opacity: 1;
+  background-color: rgba(239, 238, 239, var(--tw-bg-opacity));
+  border-radius: 0.25rem;
+  padding-left: 0.25rem;
+  padding-right: 0.25rem;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  --tw-text-opacity: 1;
+  color: rgba(21, 19, 20, var(--tw-text-opacity));
+  border-left: 10px solid;
+  border-left-color: #778DA9;
+}
+
 .warning_slider {
   --tw-bg-opacity: 3;
   background-color: rgba(253, 212, 220, var(--tw-bg-opacity));
