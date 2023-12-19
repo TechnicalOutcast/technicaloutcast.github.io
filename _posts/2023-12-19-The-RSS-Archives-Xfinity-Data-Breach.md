@@ -23,7 +23,7 @@ from 9:00 AM to 9:00 PM EST.
 The incident is still under investigation.
 
 CISA has released two advisories related to the Citrix issue Comcast references.<br>
-* [Alert Code: AA23-325A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325ahttps://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) - On how Lockbit 3.0 is leveraging the vulnerability.
+* [Alert Code: AA23-325A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) - On how Lockbit 3.0 is leveraging the vulnerability.
 * [General Guidance](https://www.cisa.gov/guidance-addressing-citrix-netscaler-adc-and-gateway-vulnerability-cve-2023-4966-citrix-bleed) on the Citrix Bleed vulnerability.
 
 >**Observations:**<br>
