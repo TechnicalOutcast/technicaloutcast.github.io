@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The RSS Archives&#58; December 17&#44; 2023
+title: The RSS Archives&#58; MongoDB Investigating Security Incident
 image: /images/news_recaps.jpg
 categories: blog
 tags: blog artificial-intelligence RSS OpenAI
