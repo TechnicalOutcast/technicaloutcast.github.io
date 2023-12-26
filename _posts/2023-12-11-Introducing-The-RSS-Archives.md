@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Introducing the RSS Archives
-image: /images/news_recaps.jpg
+image: /images/ChatGPT-3.jpg
 categories: blog
-tags: blog RSS
+tags: blog RSS OpenAI
 date: 2023-12-11
 permalink: /blog/:year/:month/:day/:title/
 description: I've decided to start recording my thoughts and create an overview of the things I'm reading in the headlines.

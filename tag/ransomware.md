@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Ransomware"
+title: "Ransomware"
 tag: ransomware
 ---

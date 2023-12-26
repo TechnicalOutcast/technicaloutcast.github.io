@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: AP Stylebook"
+title: "AP Stylebook"
 tag: AP-Stylebook
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Artificial Intelligence"
+title: "Artificial Intelligence"
 tag: artificial-intelligence
 ---

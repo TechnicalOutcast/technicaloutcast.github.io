@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: ChatGPT"
+title: "ChatGPT"
 tag: ChatGPT
 ---

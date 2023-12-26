@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Operational Technology (OT)"
+title: "Operational Technology (OT)"
 tag: ot
 ---

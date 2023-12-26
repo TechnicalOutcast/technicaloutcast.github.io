@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Black Friday"
+title: "Black Friday"
 tag: black-friday
 ---

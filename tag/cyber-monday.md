@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Cyber Monday"
+title: "Cyber Monday"
 tag: cyber-monday
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The RSS Archives&#58; Hacktivists Hit Iran Petrol Stations
-image: /images/news_recaps.jpg
+title: Hacktivists Hit Iran Petrol Stations
+image: /images/news_recaps3.jpg
 categories: blog
 tags: blog RSS OpenAI data-breach passwords ransomware government
 date: 2023-12-20

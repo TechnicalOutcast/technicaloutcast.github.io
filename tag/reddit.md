@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Reddit"
+title: "Reddit"
 tag: reddit
 ---

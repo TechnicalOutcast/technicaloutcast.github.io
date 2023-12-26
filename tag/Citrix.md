@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Citrix"
+title: "Citrix"
 tag: Citrix
 ---

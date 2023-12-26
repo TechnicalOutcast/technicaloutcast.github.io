@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: The RSS Archives"
+title: "The RSS Archives"
 tag: RSS
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: LastPass"
+title: "LastPass"
 tag: lastpass
 ---

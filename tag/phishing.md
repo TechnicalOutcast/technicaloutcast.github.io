@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Phishing"
+title: "Phishing"
 tag: phishing
 ---

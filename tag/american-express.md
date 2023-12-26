@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: American Express"
+title: "American Express"
 tag: american-express
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Voting"
+title: "Voting"
 tag: voting
 ---

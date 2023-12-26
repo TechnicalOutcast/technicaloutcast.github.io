@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Video Games"
+title: "Video Games"
 tag: video-games
 ---

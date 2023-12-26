@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Comcast-Xfinity"
+title: "Comcast-Xfinity"
 tag: Comcast-Xfinity
 ---

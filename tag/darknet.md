@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Darknet"
+title: "Darknet"
 tag: darknet
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Data Breach"
+title: "Data Breach"
 tag: data-breach
 ---

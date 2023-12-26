@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Music"
+title: "Music"
 tag: music
 ---

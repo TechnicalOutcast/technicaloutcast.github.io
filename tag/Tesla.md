@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Tesla"
+title: "Tesla"
 tag: Tesla
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Internet of Things (IoT)"
+title: "Internet of Things (IoT)"
 tag: iot
 ---

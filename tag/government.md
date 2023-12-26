@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Government"
+title: "Government"
 tag: government
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Associated Press"
+title: "Associated Press"
 tag: Associated-Press
 ---

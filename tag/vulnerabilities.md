@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Vulnerabilities"
+title: "Vulnerabilities"
 tag: vulnerabilities
 ---

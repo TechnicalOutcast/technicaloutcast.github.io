@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Cryptocurrency"
+title: "Cryptocurrency"
 tag: cryptocurrency
 ---

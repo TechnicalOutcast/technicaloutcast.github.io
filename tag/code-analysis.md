@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: code-analysis"
+title: "code-analysis"
 tag: code-analysis
 ---

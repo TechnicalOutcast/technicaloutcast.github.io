@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Credential Stuffing"
+title: "Credential Stuffing"
 tag: credential-stuffing
 ---

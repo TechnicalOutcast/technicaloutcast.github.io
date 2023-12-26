@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Social Media"
+title: "Social Media"
 tag: social-media
 ---

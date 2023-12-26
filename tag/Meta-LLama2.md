@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Meta-LLama2"
+title: "Meta-LLama2"
 tag: Meta-LLama2
 ---

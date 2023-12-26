@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The RSS Archives&#58; 36 million impacted by Xfinity Data breach&#44; passwords reset
-image: /images/news_recaps.jpg
+title: 36 million impacted by Xfinity Data breach&#44; passwords reset
+image: /images/news_recaps2.jpg
 categories: blog
 tags: blog RSS OpenAI data-breach passwords vulnerabilities Comcast-Xfinity Citrix
 date: 2023-12-19

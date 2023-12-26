@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: News"
+title: "News"
 tag: news
 ---

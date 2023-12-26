@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Payment Cards"
+title: "Payment Cards"
 tag: payment-cards
 ---

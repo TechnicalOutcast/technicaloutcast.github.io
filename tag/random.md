@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Random"
+title: "Random"
 tag: random
 ---

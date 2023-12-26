@@ -1,5 +1,5 @@
 ---
 layout: tagpage
-title: "Tag: Curated Intelligence"
+title: "Curated Intelligence"
 tag: curated-intelligence
 ---

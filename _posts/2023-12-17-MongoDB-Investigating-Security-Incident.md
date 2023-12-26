@@ -1,17 +1,15 @@
 ---
 layout: default
-title: The RSS Archives&#58; MongoDB Investigating Security Incident
+title: MongoDB Investigating Security Incident
 image: /images/news_recaps.jpg
 categories: blog
-tags: blog artificial-intelligence RSS OpenAI
+tags: blog RSS OpenAI data-breach ransomware identity
 date: 2023-12-17
 permalink: /blog/:year/:month/:day/:title/
-description: Here is a brief recap of the items in my RSS feed.
+description: Today's news centers on the MongoDB incident and a ransomware attack at a law firm.
 ---
 
-The RSS Archive is a log of the things I've come across in my RSS feeds. It could be news, code, scripts, etc. Sometimes, the roll-up might include social media posts. It just depends on what I am reading, and my mood at the moment. Along with an overview and summary of a given article (provided in part by my experiments with OpenAI and Generative AI application building), I've also included some personal thoughts.
-
-Feel free to share feedback with me on social media, [I'm easily found](https://technicaloutcast.com/about/).
+Todays' news items are a mix of trust and identity, as well as a nifty tool for researchers. Clearly the main item is the MongoDB incident, but all of the items seem to fall under a common theme. Looks like we'll be ending the year on a bit of a down note in the defensive security sector.
 
 <hr>
 ### Otis data breach cries out for basic security fixes
@@ -21,9 +19,9 @@ Feel free to share feedback with me on social media, [I'm easily found](https://
 The Otis Air National Guard Base security breach, involving Jack Teixeira, highlights a systemic failure in military security clearances and supervision. Teixeira, 21, gained access to sensitive information despite prior troubling reports in his past. He allegedly leaked hundreds of classified documents via Discord and other social channels, including assessments of the Ukraine war and information about U.S. allies. The breach exposed issues in the "need to know" principle, supervision lapses, and the inadequacy of background checks, including the neglect of applicants' online activities within the 102d Intelligence Wing. The Air Force disciplined 15 members over the incident, including unit commander Colonel Sean Riley (who was later relieved of command). An [IG report (PDF)](https://s3.documentcloud.org/documents/24223085/af_teixiera_leak_investigation.pdf) on the incident emphasizes the need for stricter enforcement of security protocols and improved vigilance in monitoring and reporting potential security breaches.
 
 >**Observations:**<br>
->Access and availability are important within an enterprise, but even then you have to trust your your people. The IG report outlines neumerous areas were existing checks and controls were abailable, but were not adhered to. Most firms operating within the DIB need to implement tighter controls on services and identities, which in some cases provide automatic notifications when access is out-of-bounds or abnormal.
+>Access and availability are important within an enterprise, but even then you have to trust your people. The IG report outlines numerous areas were existing checks and controls were available, but were not adhered to. Most firms operating within the DIB need to implement tighter controls on services and identities, which in some cases provide automatic notifications when access is out-of-bounds or abnormal.
 ><br><br>
->In this case, given that if there were no intelligence missions scheduled for the evening, the three person crew like the one A1C Teixeira was on, had a primary role was to ensure the HVAC system was operating properly and answer the phones. There were no conmtrols in place to monitor print jobs, and no business rules for print products. This essentially granted crews unlimited access to JWICS sites and high-volume print jobs with no oversight.
+>In this case, given that if there were no intelligence missions scheduled for the evening, the three person crew like the one A1C Teixeira was on, had a primary role was to ensure the HVAC system was operating properly and answer the phones. There were no controls in place to monitor print jobs, and no business rules for print products. This essentially granted crews unlimited access to JWICS sites and high-volume print jobs with no oversight.
 {: .box-news }
 
 <hr>
@@ -69,3 +67,5 @@ NetworkSherlock is a sophisticated port scanning tool tailored for network secur
 
 >**Observations:**<br> A handy tool for researchers and bounty hunters. This looked cool, so I wanted to share.
 {: .box-news }
+
+<hr>
