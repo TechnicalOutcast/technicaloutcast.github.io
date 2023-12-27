@@ -6,10 +6,10 @@ categories: blog
 tags: blog RSS OpenAI data-breach government passwords Chrome Google
 date: 2023-12-27
 permalink: /blog/:year/:month/:day/:title/
-description: The FTC and FCC updated their breach notification rules, while Google is checking passwords.
+description: The FTC and FCC updated their breach notification rules, while Google is checking passwords and banking malware is bypassing biometrics.
 ---
 
-Interesting day in the feeds. Google is providing a service to check for compromised passwords, something I really think is going to do a lot of good, and both the FTC and FCC have updated their breach notification rules, but not without some blowback. Moreover, we've got data breaches, malware, and easily cracked passwords.
+Interesting day in the feeds. Google is providing a service to check for compromised passwords, something I really think is going to do a lot of good. Both the FTC and FCC have updated their breach notification rules, but not without some blowback. Moreover, we've got data breaches, malware, and easily cracked passwords.
 
 <hr>
 ### FCC and FTC Enhance Data Breach Notification Requirements
