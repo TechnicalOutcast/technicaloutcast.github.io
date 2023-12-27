@@ -3,7 +3,7 @@ layout: default
 title: Ad Scams Take $58M&#59; Interpol seizes $300M
 image: /images/news_recaps4.jpg
 categories: blog
-tags: blog RSS OpenAI data-breach government fraud
+tags: blog RSS OpenAI data-breach government fraud phishing Google
 date: 2023-12-26
 permalink: /blog/:year/:month/:day/:title/
 description: A Mint Mobile data breach. Criminals use malicious ads to drain wallets, and Interpol conducts successful raids.
