@@ -2,7 +2,7 @@ name: Auto Publisher 8am-1pm-daily
 
 on:
   schedule:
-   - cron: '0 13,18 * * *'
+   - cron: '1 0 * * *'
 jobs:
   curl:
     runs-on: ubuntu-latest
