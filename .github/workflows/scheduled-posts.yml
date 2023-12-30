@@ -1,4 +1,4 @@
-name: Auto Publisher 8am-1pm-daily
+name: Auto Publisher 1201am-daily
 
 on:
   schedule:
