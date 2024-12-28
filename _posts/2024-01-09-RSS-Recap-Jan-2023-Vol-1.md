@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSS Recap January 2023 Volume 1
+title: RSS Recap January 2024 Volume 1
 image: /images/news_recaps5.jpg
 categories: news
 tags: news RSS OpenAI data-breach healthcare government passwords ransomware

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RSS Recap January 2023 Volume 2
+title: RSS Recap January 2024 Volume 2
 image: /images/news_recaps6.jpg
 categories: news
 tags: news RSS OpenAI government education healthcare financial-services data-breach vulnerabilities

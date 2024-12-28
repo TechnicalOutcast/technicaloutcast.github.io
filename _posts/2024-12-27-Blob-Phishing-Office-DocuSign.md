@@ -39,7 +39,12 @@ However, something is off.
 
 The character mismatch in the footer, that is normal. Hosting the phishing page on Google's Firebase? Again, pretty common these days.
 
-No, I'm talking about the usage of "blob" in the address bar.
+In fact, Brandon Evans, of SANS, [published an interesting paper on Firebase](https://sansorg.egnyte.com/dl/FkXoaBzlDw) back in 2020 (hat tip: @ ISOM). In it, he concluded:
+
+"...Firebase is unique in the degree to which their services are insecure by default and easy to misconfigure. Further, their flagship product has several inherent security concerns..."
+{: .box-news }
+
+As for what's off about the landing page I'm looking at, it's the usage of "blob" in the address bar.
 
 ![Secure Message Phishing Page URI][phishing-page-URI]
 
