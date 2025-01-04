@@ -29,7 +29,8 @@
     {% if page.date %}{% include pagination.html %}{% endif %}
   </div>
   <footer class="mw7 center tc pt3 pb4 white">
-    &copy; {{ site.time | date: '%Y' }} Steve Ragan | {{ site.title }}<br>
+    <!-- &copy; {{ site.time | date: '%Y' }} Steve Ragan | {{ site.title }}<br> -->
+    &copy; <script>document.write(new Date().getFullYear())</script> Steve Ragan | {{ site.title }} <br>
   </footer>
   <script type="text/javascript" src="/js/lightbox.js"></script>
   <link rel="stylesheet" href="/stylesheets/lightbox.css">
