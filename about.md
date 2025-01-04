@@ -18,7 +18,7 @@ Over the years, while working as a full-time journalist covering security, I dea
 So I’m not really an outcast, I’m just a technical outcast.
 
 ## DISCLOSURE:
-Outside of 401(k) investments, in which I have no say into what companies are represented by a given fund, I have no other direct investments in the companies he covers. If such investments are ever made, this section will be updated with a full accounting of them.
+Outside of 401(k) investments, in which I have no say into what companies are represented by a given fund, I have no other direct investments in the companies I cover. If such investments are ever made, this section will be updated. 
 
 You can find me on the following social channels:<br>
 
