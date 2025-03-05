@@ -13,17 +13,17 @@ Since the start of the year, a phishing campaign targeting toll payments has gai
 
 Scams like these are nothing new. They've targeted Massachusetts drivers in the past, as well as drivers in Ireland and other parts of Europe and Asia. However, since about mid-January, the number of text messages reporting failed or missed toll payments and demanding immediate action has risen considerably. 
 
-The following is a breakdown of some of the phishing pages observed by TechnicalOutcast. The numbers below represent single URLs targeting a given agency, where duplicates have been removed.
+The following is a breakdown of some of the phishing pages observed by TechnicalOutcast. The numbers below represent single URLs targeting a given agency. As you can see, some campaigns are spamming the same URL hundreds of times. Thousands of times if duplicate records are included. 
 
-| Toll Agency | Count (Dupes Removed) |
+| Toll Agency | Count (Dupes Removed) | Count (Dupes Included)
 | :-------- | -------- |
-| SunPass | 643 |
-| E-ZPass | 630 |
-| EZDrive Massachusetts | 228 |
-| FasTrak | 73 |
-| AutoPASS | 54 |
-| EasyPark | 15 |
-| HKeToll | 1 |
+| SunPass | 643 | 4,373 |
+| E-ZPass | 630 | 2,913 |
+| EZDrive Massachusetts | 228 | 494 |
+| FasTrak | 73 | 94 |
+| AutoPASS | 54 | 113 |
+| EasyPark | 15 | 20 |
+| HKeToll | 1 | 2 |
 
 An example of these scams, [sent to drivers in Illinois](https://agency.illinoistollway.com/fraudulent-electronic-communication), can be seen below. 
 
